@@ -1,0 +1,61 @@
+.filter {
+    filter: brightness(0.5);
+}
+.click {
+    cursor: pointer;
+}
+
+.inputSize {
+    width : 60px;
+}
+
+footer{
+    width: 100%;
+    padding: 20px 0px;
+    box-shadow: 0px 0px 15px rgb(186, 245, 23);
+}
+footer{
+    background-color: green;
+    border-top: 2px solid #55ff;
+}
+footer p{
+    width: 90%;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    }
+footer a{
+    color: rgb(248, 71, 71);
+}
+.tab-2, .containaire {
+    padding: 20px;
+  }
+  
+  .tab-2 {
+    background: #ddd;
+  }
+  
+  h1 {
+    margin: 0;
+    text-align: center;
+  }
+
+  .tab tab-1 {
+    list-style-type: none;
+  }
+  
+  
+  div {
+    margin-bottom: 10px;
+  }
+
+
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px auto 0px auto;
+}
+.social img{
+    width: 40px;
+    height: 40px;
+}
